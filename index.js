@@ -1,5 +1,5 @@
 'use strict';
 
 module.exports = {
-  name: 'service'
+  name: '@ember-decorators/service'
 };
